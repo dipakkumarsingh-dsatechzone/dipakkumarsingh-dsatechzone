@@ -25,7 +25,10 @@ Cloud Architect & Technology Leader driving **enterprise digital transformation,
 ## 💼 Currently
 
 > **Principal Cloud Architect** · *Konecta*
-> Driving cloud architecture and AI-led modernization initiatives.
+> **Application Modernization expert** helping **investment banking** clients
+> containerize legacy workloads — leveraging **AI** to accelerate the journey
+> from monolith to cloud-native: discovery, dependency mapping, refactoring,
+> and Kubernetes-ready deployment patterns.
 
 ---
 
@@ -96,24 +99,73 @@ Cloud Architect & Technology Leader driving **enterprise digital transformation,
 
 ---
 
-## 🗺️ Career Timeline
+## 🗺️ Career Journey
 
-```mermaid
-timeline
-    title 18+ Years of Cloud, Architecture & Engineering Leadership
-    2008–2010 : Wolters Kluwer
-              : Software Engineer · OvidSP medical search platform
-    2010–2012 : QuinStreet · California, USA
-              : Senior Software Engineer · FormsOne lead-gen framework
-    2012–2014 : Cognizant
-              : Solution Architect · JPMorgan Chase (UCard, Escrow Platform)
-    2014–2024 : Atos / Eviden
-              : Architect → Account CTO · Renault, Stellantis, Renault-Nissan Alliance
-    2024–2026 : Atos
-              : Deputy Chief Modernization Officer · Application Modernization & GenAI practice
-    2026–Now  : Konecta
-              : Principal Cloud Architect
-```
+**18+ years** spanning the full evolution of enterprise IT — from early-2010s
+Java/Struts monoliths, through the cloud-migration wave of the late 2010s, to
+today's **AI-led application modernization**. Worked across **automotive,
+banking, media, and healthcare** in **3 continents** — USA, France, and India.
+
+<table>
+<tr><th>Period</th><th>Role</th><th>Company</th><th>Highlights</th></tr>
+
+<tr>
+<td><b>May 2026 — Now</b></td>
+<td>🟢 Principal Cloud Architect</td>
+<td><b>Konecta</b></td>
+<td>AI-led containerization for <b>investment banking</b> workloads</td>
+</tr>
+
+<tr>
+<td>Jul 2024 — Apr 2026</td>
+<td>Deputy Chief Modernization Officer · Account CTO</td>
+<td><b>Atos</b></td>
+<td>Application Modernization & GenAI practice · 60% faster RFI responses</td>
+</tr>
+
+<tr>
+<td>May 2017 — Jun 2024</td>
+<td>Account CTO — Architect, DevOps & Cloud</td>
+<td><b>Eviden</b> · <i>Renault & Stellantis</i></td>
+<td>100+ apps migrated to GCP / AWS · 35% cost reduction · 99.7% uptime</td>
+</tr>
+
+<tr>
+<td>Oct 2015 — Apr 2017</td>
+<td>Technical Solutions Architect</td>
+<td><b>Atos</b> · <i>Renault-Nissan Alliance</i></td>
+<td>First Alliance supplier management platform · 15 features · team of 20</td>
+</tr>
+
+<tr>
+<td>Feb 2014 — Sep 2015</td>
+<td>Development & Delivery Architect</td>
+<td><b>Atos</b> · <i>Renault</i></td>
+<td>Inventory management · reusable Maven components adopted across teams</td>
+</tr>
+
+<tr>
+<td>Aug 2012 — Feb 2014</td>
+<td>Solution Architect</td>
+<td><b>Cognizant</b> · <i>JPMorgan Chase</i></td>
+<td>UCard (multi-state benefits) · Escrow Strategic Platform · serving millions</td>
+</tr>
+
+<tr>
+<td>Aug 2010 — Jul 2012</td>
+<td>Senior Software Engineer</td>
+<td><b>QuinStreet</b> · <i>California, USA</i></td>
+<td>FormsOne — unified lead-generation framework</td>
+</tr>
+
+<tr>
+<td>May 2008 — Jul 2010</td>
+<td>Software Engineer</td>
+<td><b>Wolters Kluwer</b></td>
+<td>OvidSP 2.0 medical search · rewrote PERL → Java/Struts2</td>
+</tr>
+
+</table>
 
 ### Industries served
 
