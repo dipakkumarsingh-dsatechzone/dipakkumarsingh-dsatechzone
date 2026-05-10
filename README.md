@@ -2,10 +2,9 @@
 
 # Hi, I'm Dipak Kumar Singh 👋
 
-### **Principal Cloud Architect** · 18+ years · ☁️ GCP · 🤖 GenAI · 🌍 Versailles, France
+### **Principal Cloud Architect** · 18+ years · ☁️ GCP · 🤖 GenAI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipak-kumar-singh-36a6a3a)
-[![Location](https://img.shields.io/badge/Versailles-France-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Open to Opportunities](https://img.shields.io/badge/Open%20to-Senior%20Roles-success?style=for-the-badge&logo=briefcase&logoColor=white)](#)
 
 </div>
@@ -24,11 +23,10 @@ Cloud Architect & Technology Leader driving **enterprise digital transformation,
 
 ## 💼 Currently
 
-> **Principal Cloud Architect** · *Konecta*
-> **Application Modernization expert** helping **investment banking** clients
-> containerize legacy workloads — leveraging **AI** to accelerate the journey
-> from monolith to cloud-native: discovery, dependency mapping, refactoring,
-> and Kubernetes-ready deployment patterns.
+> **Principal Cloud Architect** · *Konecta* · client *LSEG (London Stock Exchange Group)*
+> **Application Modernization expert** helping investment-banking workloads
+> move from monolith to cloud-native — leveraging **AI** for discovery,
+> dependency mapping, refactoring, and Kubernetes-ready deployment patterns.
 
 ---
 
@@ -107,61 +105,69 @@ today's **AI-led application modernization**. Worked across **automotive,
 banking, media, and healthcare** in **3 continents** — USA, France, and India.
 
 <table>
-<tr><th>Period</th><th>Role</th><th>Company</th><th>Highlights</th></tr>
+<tr><th>Period</th><th>Role</th><th>Employer</th><th>Client</th><th>Highlights</th></tr>
 
 <tr>
 <td><b>May 2026 — Now</b></td>
 <td>🟢 Principal Cloud Architect</td>
 <td><b>Konecta</b></td>
-<td>AI-led containerization for <b>investment banking</b> workloads</td>
+<td><i>LSEG · Investment Banking</i></td>
+<td>AI-led containerization of legacy workloads</td>
 </tr>
 
 <tr>
 <td>Jul 2024 — Apr 2026</td>
 <td>Deputy Chief Modernization Officer · Account CTO</td>
 <td><b>Atos</b></td>
-<td>Application Modernization & GenAI practice · 60% faster RFI responses</td>
+<td><i>Renault · Stellantis</i></td>
+<td>Built Application Modernization & GenAI practice · 60% faster RFI</td>
 </tr>
 
 <tr>
 <td>May 2017 — Jun 2024</td>
 <td>Account CTO — Architect, DevOps & Cloud</td>
-<td><b>Eviden</b> · <i>Renault & Stellantis</i></td>
-<td>100+ apps migrated to GCP / AWS · 35% cost reduction · 99.7% uptime</td>
+<td><b>Eviden</b></td>
+<td><i>Renault · Stellantis</i></td>
+<td>100+ apps to GCP / AWS · 35% cost reduction · 99.7% uptime</td>
 </tr>
 
 <tr>
 <td>Oct 2015 — Apr 2017</td>
 <td>Technical Solutions Architect</td>
-<td><b>Atos</b> · <i>Renault-Nissan Alliance</i></td>
+<td><b>Atos</b></td>
+<td><i>Renault-Nissan Alliance</i></td>
 <td>First Alliance supplier management platform · 15 features · team of 20</td>
 </tr>
 
 <tr>
 <td>Feb 2014 — Sep 2015</td>
 <td>Development & Delivery Architect</td>
-<td><b>Atos</b> · <i>Renault</i></td>
+<td><b>Atos</b></td>
+<td><i>Renault</i></td>
 <td>Inventory management · reusable Maven components adopted across teams</td>
 </tr>
 
 <tr>
 <td>Aug 2012 — Feb 2014</td>
 <td>Solution Architect</td>
-<td><b>Cognizant</b> · <i>JPMorgan Chase</i></td>
+<td><b>Cognizant</b></td>
+<td><i>JPMorgan Chase</i></td>
 <td>UCard (multi-state benefits) · Escrow Strategic Platform · serving millions</td>
 </tr>
 
 <tr>
 <td>Aug 2010 — Jul 2012</td>
 <td>Senior Software Engineer</td>
-<td><b>QuinStreet</b> · <i>California, USA</i></td>
+<td><b>QuinStreet</b></td>
+<td><i>In-house product</i></td>
 <td>FormsOne — unified lead-generation framework</td>
 </tr>
 
 <tr>
 <td>May 2008 — Jul 2010</td>
 <td>Software Engineer</td>
-<td><b>Wolters Kluwer</b></td>
+<td><b>The Digital Group</b></td>
+<td><i>Wolters Kluwer</i></td>
 <td>OvidSP 2.0 medical search · rewrote PERL → Java/Struts2</td>
 </tr>
 
@@ -170,17 +176,6 @@ banking, media, and healthcare** in **3 continents** — USA, France, and India.
 ### Industries served
 
 🚗 Automotive · 🏭 Manufacturing · 🏦 Banking & Finance · 🏥 Healthcare
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-![Dipak's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipakkumarsingh-dsatechzone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipakkumarsingh-dsatechzone&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
