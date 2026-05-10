@@ -24,9 +24,8 @@ Cloud Architect & Technology Leader driving **enterprise digital transformation,
 
 ## 💼 Currently
 
-> **Deputy Chief Modernization Officer & Account CTO** · *Atos*
-> Building Application Modernization & GenAI Innovation practice
-> for enterprise clients across Europe.
+> **Principal Cloud Architect** · *Konecta*
+> Driving cloud architecture and AI-led modernization initiatives.
 
 ---
 
@@ -97,9 +96,26 @@ Cloud Architect & Technology Leader driving **enterprise digital transformation,
 
 ---
 
-## 🏢 Worked With
+## 🗺️ Career Timeline
 
-> **Renault** · **Stellantis** · **Renault-Nissan Alliance** · **JPMorgan Chase** · **Wolters Kluwer** · **QuinStreet**
+```mermaid
+timeline
+    title 18+ Years of Cloud, Architecture & Engineering Leadership
+    2008–2010 : Wolters Kluwer
+              : Software Engineer · OvidSP medical search platform
+    2010–2012 : QuinStreet · California, USA
+              : Senior Software Engineer · FormsOne lead-gen framework
+    2012–2014 : Cognizant
+              : Solution Architect · JPMorgan Chase (UCard, Escrow Platform)
+    2014–2024 : Atos / Eviden
+              : Architect → Account CTO · Renault, Stellantis, Renault-Nissan Alliance
+    2024–2026 : Atos
+              : Deputy Chief Modernization Officer · Application Modernization & GenAI practice
+    2026–Now  : Konecta
+              : Principal Cloud Architect
+```
+
+### Industries served
 
 🚗 Automotive · 🏭 Manufacturing · 🏦 Banking & Finance · 🏥 Healthcare
 
