@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-label="Career timeline 2008 to present">
+  <defs>
+    <linearGradient id="tlBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"  stop-color="#1a1b26"/>
+      <stop offset="100%" stop-color="#24283b"/>
+    </linearGradient>
+    <linearGradient id="nowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"  stop-color="#9ece6a"/>
+      <stop offset="100%" stop-color="#7dcfff"/>
+    </linearGradient>
+    <pattern id="grid" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1" fill="#c0caf5" fill-opacity="0.05"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="520" fill="url(#tlBg)"/>
+  <rect width="1200" height="520" fill="url(#grid)"/>
+
+  <!-- Title -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif">
+    <text x="60" y="48" font-size="22" font-weight="700" fill="#c0caf5" letter-spacing="1">CAREER JOURNEY</text>
+    <text x="60" y="72" font-size="13" fill="#7aa2f7">18+ years &#8226; software engineering &#8594; cloud architecture &#8594; AI-led modernization</text>
+    <line x1="60" y1="84" x2="220" y2="84" stroke="#7aa2f7" stroke-width="2"/>
+  </g>
+
+  <!-- Year axis -->
+  <g font-family="-apple-system, sans-serif" font-size="11" fill="#a9b1d6" font-weight="500">
+    <text x="60"   y="120">2008</text>
+    <text x="403"  y="120">2014</text>
+    <text x="588"  y="120">2017</text>
+    <text x="1011" y="120">2024</text>
+    <text x="1118" y="120">2026</text>
+  </g>
+
+  <!-- Year axis ticks -->
+  <g stroke="#414868" stroke-width="1">
+    <line x1="68"   y1="125" x2="68"   y2="135"/>
+    <line x1="418"  y1="125" x2="418"  y2="135"/>
+    <line x1="603"  y1="125" x2="603"  y2="135"/>
+    <line x1="1026" y1="125" x2="1026" y2="135"/>
+    <line x1="1133" y1="125" x2="1133" y2="135"/>
+  </g>
+
+  <!-- TENURE BARS -->
+  <!-- 1. Foundation 2008-2014 -->
+  <rect x="60" y="145" width="358" height="48" rx="6" fill="#7aa2f7" fill-opacity="0.85"/>
+  <text x="239" y="166" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="12" font-weight="700" fill="#1a1b26">FOUNDATION</text>
+  <text x="239" y="183" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="10" fill="#1a1b26">Software Engineer &#8594; Solution Architect</text>
+
+  <!-- 2. Atos Renault 2014-2017 -->
+  <rect x="418" y="145" width="185" height="48" rx="6" fill="#bb9af7" fill-opacity="0.85"/>
+  <text x="510" y="166" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="12" font-weight="700" fill="#1a1b26">ATOS &#8226; ARCHITECT</text>
+  <text x="510" y="183" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="10" fill="#1a1b26">Renault &amp; Renault-Nissan</text>
+
+  <!-- 3. Eviden Account CTO 2017-2024 -->
+  <rect x="603" y="145" width="423" height="48" rx="6" fill="#7dcfff" fill-opacity="0.9"/>
+  <text x="814" y="166" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="13" font-weight="700" fill="#1a1b26">EVIDEN &#8226; ACCOUNT CTO</text>
+  <text x="814" y="184" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="11" fill="#1a1b26">Renault &amp; Stellantis  &#8226;  100+ apps to GCP/AWS  &#8226;  35% cost cut</text>
+
+  <!-- 4. Atos Deputy CMO 2024-2026 -->
+  <rect x="1026" y="145" width="107" height="48" rx="6" fill="#e0af68" fill-opacity="0.9"/>
+  <text x="1080" y="166" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="11" font-weight="700" fill="#1a1b26">ATOS</text>
+  <text x="1080" y="183" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="9" fill="#1a1b26">Deputy CMO</text>
+
+  <!-- 5. Konecta NOW -->
+  <rect x="1133" y="145" width="60" height="48" rx="6" fill="url(#nowGrad)" filter="url(#glow)"/>
+  <text x="1163" y="167" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="11" font-weight="700" fill="#1a1b26">NOW</text>
+  <circle cx="1163" cy="180" r="3" fill="#1a1b26"/>
+
+  <!-- Connector lines down to detail cards -->
+  <g stroke="#414868" stroke-width="1" stroke-dasharray="2 4">
+    <line x1="239"  y1="195" x2="239"  y2="225"/>
+    <line x1="510"  y1="195" x2="510"  y2="225"/>
+    <line x1="814"  y1="195" x2="814"  y2="225"/>
+    <line x1="1080" y1="195" x2="1080" y2="225"/>
+    <line x1="1163" y1="195" x2="1163" y2="225"/>
+  </g>
+
+  <!-- Detail cards under each chapter -->
+  <g font-family="-apple-system, sans-serif">
+    <!-- Foundation -->
+    <g>
+      <text x="239" y="245" text-anchor="middle" font-size="10" font-weight="600" fill="#7aa2f7">2008 &#8211; 2014</text>
+      <text x="239" y="265" text-anchor="middle" font-size="11" fill="#c0caf5">Wolters Kluwer &#8226; QuinStreet</text>
+      <text x="239" y="280" text-anchor="middle" font-size="11" fill="#c0caf5">JPMorgan Chase</text>
+      <text x="239" y="302" text-anchor="middle" font-size="9" fill="#a9b1d6">OvidSP &#8226; FormsOne &#8226; UCard</text>
+    </g>
+
+    <!-- Atos Renault -->
+    <g>
+      <text x="510" y="245" text-anchor="middle" font-size="10" font-weight="600" fill="#bb9af7">2014 &#8211; 2017</text>
+      <text x="510" y="265" text-anchor="middle" font-size="11" fill="#c0caf5">Tech Solutions Architect</text>
+      <text x="510" y="280" text-anchor="middle" font-size="11" fill="#c0caf5">Dev &amp; Delivery Architect</text>
+      <text x="510" y="302" text-anchor="middle" font-size="9" fill="#a9b1d6">First Alliance supplier platform</text>
+    </g>
+
+    <!-- Eviden -->
+    <g>
+      <text x="814" y="245" text-anchor="middle" font-size="10" font-weight="600" fill="#7dcfff">2017 &#8211; 2024  &#8226;  7 YEARS</text>
+      <text x="814" y="265" text-anchor="middle" font-size="11" fill="#c0caf5">Account CTO &#8211; Architect, DevOps &amp; Cloud</text>
+      <text x="814" y="280" text-anchor="middle" font-size="11" fill="#c0caf5">Renault &amp; Stellantis</text>
+      <text x="814" y="302" text-anchor="middle" font-size="9" fill="#a9b1d6">100+ apps migrated  &#8226;  99.7% uptime  &#8226;  HP-UX &#8594; Rocky Linux</text>
+    </g>
+
+    <!-- Atos Deputy CMO -->
+    <g>
+      <text x="1080" y="245" text-anchor="middle" font-size="10" font-weight="600" fill="#e0af68">2024 &#8211; 2026</text>
+      <text x="1080" y="265" text-anchor="middle" font-size="11" fill="#c0caf5">Deputy Chief</text>
+      <text x="1080" y="280" text-anchor="middle" font-size="11" fill="#c0caf5">Modernization Officer</text>
+      <text x="1080" y="302" text-anchor="middle" font-size="9" fill="#a9b1d6">GenAI accelerators &#8226; 60% faster RFI</text>
+    </g>
+
+    <!-- Konecta NOW -->
+    <g>
+      <text x="1163" y="245" text-anchor="middle" font-size="10" font-weight="700" fill="#9ece6a">MAY 2026 &#8211; NOW</text>
+      <text x="1163" y="265" text-anchor="middle" font-size="11" font-weight="600" fill="#c0caf5">Konecta</text>
+      <text x="1163" y="280" text-anchor="middle" font-size="11" fill="#c0caf5">Principal Cloud Arch.</text>
+      <text x="1163" y="302" text-anchor="middle" font-size="9" fill="#a9b1d6">LSEG &#8226; Investment Banking</text>
+      <text x="1163" y="316" text-anchor="middle" font-size="9" fill="#a9b1d6">AI-led containerization</text>
+    </g>
+  </g>
+
+  <!-- Bottom legend / summary strip -->
+  <g transform="translate(0, 360)">
+    <line x1="60" y1="0" x2="1140" y2="0" stroke="#414868" stroke-width="1"/>
+
+    <!-- Stat boxes -->
+    <g font-family="-apple-system, sans-serif">
+      <g transform="translate(60, 30)">
+        <text x="0" y="0" font-size="32" font-weight="800" fill="#7aa2f7">18+</text>
+        <text x="0" y="22" font-size="10" font-weight="600" fill="#a9b1d6" letter-spacing="1.5">YEARS EXPERIENCE</text>
+      </g>
+      <g transform="translate(220, 30)">
+        <text x="0" y="0" font-size="32" font-weight="800" fill="#9ece6a">100+</text>
+        <text x="0" y="22" font-size="10" font-weight="600" fill="#a9b1d6" letter-spacing="1.5">APPS MIGRATED</text>
+      </g>
+      <g transform="translate(380, 30)">
+        <text x="0" y="0" font-size="32" font-weight="800" fill="#e0af68">35%</text>
+        <text x="0" y="22" font-size="10" font-weight="600" fill="#a9b1d6" letter-spacing="1.5">COST REDUCTION</text>
+      </g>
+      <g transform="translate(540, 30)">
+        <text x="0" y="0" font-size="32" font-weight="800" fill="#bb9af7">5&#215;</text>
+        <text x="0" y="22" font-size="10" font-weight="600" fill="#a9b1d6" letter-spacing="1.5">GCP CERTIFIED</text>
+      </g>
+      <g transform="translate(680, 30)">
+        <text x="0" y="0" font-size="32" font-weight="800" fill="#7dcfff">20+</text>
+        <text x="0" y="22" font-size="10" font-weight="600" fill="#a9b1d6" letter-spacing="1.5">ENGINEERS LED</text>
+      </g>
+      <g transform="translate(860, 30)">
+        <text x="0" y="0" font-size="32" font-weight="800" fill="#f7768e">3</text>
+        <text x="0" y="22" font-size="10" font-weight="600" fill="#a9b1d6" letter-spacing="1.5">CONTINENTS</text>
+      </g>
+      <g transform="translate(960, 30)">
+        <text x="0" y="0" font-size="32" font-weight="800" fill="#c0caf5">99.7%</text>
+        <text x="0" y="22" font-size="10" font-weight="600" fill="#a9b1d6" letter-spacing="1.5">UPTIME</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Bottom accent stripe -->
+  <rect x="0" y="516" width="1200" height="4" fill="url(#nowGrad)"/>
+</svg>

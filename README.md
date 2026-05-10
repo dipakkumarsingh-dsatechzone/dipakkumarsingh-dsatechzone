@@ -141,10 +141,14 @@ Terraform, and cloud-native architecture.
 
 ## Career Journey
 
-18+ years spanning the full evolution of enterprise IT — from early-2010s
-Java monoliths, through the cloud-migration wave of the late 2010s, to
-today's AI-led application modernization. Worked across **automotive,
-manufacturing, banking, and healthcare** on three continents.
+<p align="center">
+  <img src="./assets/timeline.svg" alt="Career timeline 2008 to present — Foundation, Atos Architect, Eviden Account CTO, Atos Deputy CMO, Konecta Principal" width="100%"/>
+</p>
+
+<details>
+<summary><b>📜 Detailed role history (click to expand)</b></summary>
+
+<br/>
 
 <table>
 <tr>
@@ -220,6 +224,8 @@ manufacturing, banking, and healthcare** on three continents.
 </tr>
 
 </table>
+
+</details>
 
 **Industries** &nbsp;·&nbsp; Automotive &nbsp;·&nbsp; Manufacturing &nbsp;·&nbsp; Banking & Finance &nbsp;·&nbsp; Healthcare
 
