@@ -1,57 +1,65 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-label="Dipak Kumar Singh — Principal Cloud Architect">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1a1b26"/>
-      <stop offset="55%" stop-color="#1f2335"/>
-      <stop offset="100%" stop-color="#24283b"/>
+    <linearGradient id="paper" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f8fafc"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#7aa2f7"/>
-      <stop offset="100%" stop-color="#bb9af7"/>
+    <linearGradient id="topStripe" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#2563eb"/>
+      <stop offset="50%"  stop-color="#9333ea"/>
+      <stop offset="100%" stop-color="#16a34a"/>
     </linearGradient>
-    <pattern id="dots" x="0" y="0" width="36" height="36" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1.1" fill="#c0caf5" fill-opacity="0.08"/>
+    <linearGradient id="accentBar" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#9333ea"/>
+    </linearGradient>
+    <pattern id="dotgrid" x="0" y="0" width="36" height="36" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#cbd5e1" fill-opacity="0.4"/>
     </pattern>
   </defs>
 
-  <rect width="1200" height="260" fill="url(#bg)"/>
-  <rect width="1200" height="260" fill="url(#dots)"/>
+  <!-- Paper background -->
+  <rect width="1200" height="260" fill="url(#paper)"/>
+  <rect width="1200" height="260" fill="url(#dotgrid)"/>
+  <!-- Top accent stripe -->
+  <rect x="0" y="0" width="1200" height="4" fill="url(#topStripe)"/>
 
-  <!-- left accent bar -->
-  <rect x="64" y="56" width="3" height="148" fill="url(#accent)"/>
+  <!-- Left vertical accent bar -->
+  <rect x="64" y="56" width="3" height="148" fill="url(#accentBar)"/>
 
   <!-- Name -->
   <text x="92" y="108" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif"
-        font-size="44" font-weight="700" letter-spacing="0.5" fill="#c0caf5">
+        font-size="44" font-weight="700" letter-spacing="0.5" fill="#0f172a">
     DIPAK KUMAR SINGH
   </text>
 
   <!-- Title -->
   <text x="92" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif"
-        font-size="22" font-weight="500" fill="#7aa2f7">
+        font-size="22" font-weight="600" fill="#2563eb">
     Principal Cloud Architect
   </text>
 
   <!-- Tagline -->
   <text x="92" y="180" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif"
-        font-size="15" font-weight="400" fill="#a9b1d6">
-    18+ years  ·  Google Cloud  ·  AWS  ·  Generative AI  ·  Enterprise Modernization
+        font-size="15" font-weight="400" fill="#475569">
+    18+ years  &#183;  Google Cloud  &#183;  AWS  &#183;  Generative AI  &#183;  Enterprise Modernization
   </text>
 
   <!-- Right-side decorative cloud + nodes (architecture motif) -->
-  <g transform="translate(900, 75)" stroke="#7aa2f7" stroke-width="1.6" fill="none" opacity="0.55">
+  <g transform="translate(900, 75)" stroke-width="1.8" fill="none" opacity="0.85">
     <!-- cloud silhouette -->
-    <path d="M40 60 a20 20 0 0 1 4 -38 a30 30 0 0 1 56 8 a20 20 0 0 1 0 40 z" stroke-linejoin="round"/>
+    <path d="M40 60 a20 20 0 0 1 4 -38 a30 30 0 0 1 56 8 a20 20 0 0 1 0 40 z"
+          stroke="#2563eb" stroke-linejoin="round" fill="#dbeafe" fill-opacity="0.5"/>
     <!-- connecting lines to nodes -->
-    <line x1="60" y1="70" x2="40" y2="120"/>
-    <line x1="80" y1="75" x2="100" y2="120"/>
-    <line x1="70" y1="80" x2="70" y2="118"/>
+    <line x1="60" y1="70" x2="40"  y2="120" stroke="#94a3b8"/>
+    <line x1="80" y1="75" x2="100" y2="120" stroke="#94a3b8"/>
+    <line x1="70" y1="80" x2="70"  y2="118" stroke="#94a3b8"/>
     <!-- nodes -->
-    <circle cx="40" cy="124" r="6" fill="#7aa2f7" fill-opacity="0.3"/>
-    <circle cx="70" cy="124" r="6" fill="#bb9af7" fill-opacity="0.3"/>
-    <circle cx="100" cy="124" r="6" fill="#7dcfff" fill-opacity="0.3"/>
+    <circle cx="40"  cy="124" r="7" fill="#2563eb" stroke="#ffffff" stroke-width="2"/>
+    <circle cx="70"  cy="124" r="7" fill="#9333ea" stroke="#ffffff" stroke-width="2"/>
+    <circle cx="100" cy="124" r="7" fill="#16a34a" stroke="#ffffff" stroke-width="2"/>
   </g>
 
   <!-- bottom accent stripe -->
-  <rect x="0" y="256" width="1200" height="4" fill="url(#accent)"/>
+  <rect x="0" y="256" width="1200" height="4" fill="url(#topStripe)"/>
 </svg>
