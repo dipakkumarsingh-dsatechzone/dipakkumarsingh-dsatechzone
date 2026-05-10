@@ -70,32 +70,17 @@ Cloud Architect & Technology Leader driving **enterprise digital transformation,
 
 ## 🏆 Certifications
 
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://images.credly.com/size/110x110/images/71c579e0-51fd-4247-b693-3be4e1aaf51d/image.png" width="80"><br>
-<b>GCP Cloud Architect</b><br><sub>Professional</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://images.credly.com/size/110x110/images/d7de9f49-72cd-4c75-a1c9-91fff5e22582/image.png" width="80"><br>
-<b>GCP Developer</b><br><sub>Professional</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://images.credly.com/size/110x110/images/fcd23d59-c55e-4f4e-bd26-e5a05ec98615/image.png" width="80"><br>
-<b>GCP Security Engineer</b><br><sub>Professional</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://images.credly.com/size/110x110/images/a0b69a0b-5d2c-431b-9eea-8c44ba0ec026/image.png" width="80"><br>
-<b>GCP Associate</b><br><sub>Cloud Engineer</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://images.credly.com/size/110x110/images/70c9b704-6dd5-4d96-a73f-bdcd4b7a73c3/image.png" width="80"><br>
-<b>AWS Practitioner</b><br><sub>Cloud</sub>
-</td>
-</tr>
-</table>
+### Google Cloud — 5× Certified
 
-Plus **GCP Digital Leader** — *5× Google Cloud certified in total*
+![Professional Cloud Architect](https://img.shields.io/badge/Professional-Cloud%20Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Professional Cloud Developer](https://img.shields.io/badge/Professional-Cloud%20Developer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Professional Security Engineer](https://img.shields.io/badge/Professional-Cloud%20Security%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Associate Cloud Engineer](https://img.shields.io/badge/Associate-Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Digital Leader](https://img.shields.io/badge/Foundational-Digital%20Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### Amazon Web Services
+
+![AWS Cloud Practitioner](https://img.shields.io/badge/Foundational-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
