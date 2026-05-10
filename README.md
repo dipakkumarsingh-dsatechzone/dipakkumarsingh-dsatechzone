@@ -38,37 +38,9 @@ Terraform, and cloud-native architecture.
 
 ## Core Strengths
 
-<table>
-<tr>
-  <td valign="top" width="33%">
-    <b>Cloud & Infrastructure</b><br/>
-    <sub>
-    GCP (5× certified) · AWS<br/>
-    Kubernetes · Helm · Istio<br/>
-    Terraform · Ansible<br/>
-    GitOps · SRE · Linux
-    </sub>
-  </td>
-  <td valign="top" width="33%">
-    <b>AI / GenAI</b><br/>
-    <sub>
-    GPT-4 · Gemini · Claude<br/>
-    LangChain · LangGraph<br/>
-    Agentic systems<br/>
-    RAG & retrieval pipelines
-    </sub>
-  </td>
-  <td valign="top" width="33%">
-    <b>Architecture & Leadership</b><br/>
-    <sub>
-    Cloud-native design<br/>
-    Event-driven · 12-factor<br/>
-    Pre-sales & C-suite advisory<br/>
-    Team building (20+ engineers)
-    </sub>
-  </td>
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/strengths.svg" alt="Core Strengths — Cloud & Infrastructure, AI & GenAI, Architecture & Leadership" width="100%"/>
+</p>
 
 ---
 

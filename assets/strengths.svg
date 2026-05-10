@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" aria-label="Core Strengths">
+  <defs>
+    <linearGradient id="paper" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f8fafc"/>
+    </linearGradient>
+    <linearGradient id="topStripe" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#2563eb"/>
+      <stop offset="50%"  stop-color="#9333ea"/>
+      <stop offset="100%" stop-color="#16a34a"/>
+    </linearGradient>
+    <filter id="card" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#0f172a" flood-opacity="0.06"/>
+    </filter>
+  </defs>
+
+  <!-- Paper background -->
+  <rect width="1200" height="400" fill="url(#paper)"/>
+  <rect x="0" y="0" width="1200" height="4" fill="url(#topStripe)"/>
+
+  <!-- Title -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif">
+    <text x="60" y="48" font-size="22" font-weight="700" fill="#0f172a" letter-spacing="2">CORE  STRENGTHS</text>
+    <text x="60" y="70" font-size="13" fill="#475569">Three pillars built over 18+ years of enterprise delivery</text>
+    <line x1="60" y1="82" x2="220" y2="82" stroke="#2563eb" stroke-width="2"/>
+  </g>
+
+  <!-- 3 CARDS -->
+  <!-- Column 1: 60-400 (340 wide), Col 2: 430-770, Col 3: 800-1140 -->
+
+  <!-- ========== CARD 1: CLOUD & INFRASTRUCTURE ========== -->
+  <g filter="url(#card)">
+    <rect x="60" y="105" width="340" height="270" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+    <rect x="60" y="105" width="340" height="4" rx="2" fill="#2563eb"/>
+  </g>
+
+  <!-- Cloud icon -->
+  <g transform="translate(86, 132)" stroke="#2563eb" stroke-width="2" fill="#dbeafe" stroke-linejoin="round">
+    <path d="M 6 22 a 8 8 0 0 1 4 -15 a 12 12 0 0 1 22 4 a 7 7 0 0 1 -1 14 z"/>
+  </g>
+
+  <g font-family="-apple-system, sans-serif">
+    <text x="138" y="148" font-size="15" font-weight="700" fill="#0f172a">Cloud &amp; Infrastructure</text>
+    <text x="138" y="166" font-size="10" font-weight="600" fill="#2563eb" letter-spacing="1.2">DESIGN  &#8226;  BUILD  &#8226;  RUN</text>
+
+    <line x1="86" y1="182" x2="374" y2="182" stroke="#e2e8f0" stroke-width="1"/>
+
+    <g fill="#334155" font-size="13">
+      <text x="86"  y="208"><tspan font-weight="600">&#9656;</tspan>  <tspan dx="6">GCP <tspan font-weight="700" fill="#2563eb">(5&#215; certified)</tspan>  &#8226;  AWS</tspan></text>
+      <text x="86"  y="234"><tspan font-weight="600">&#9656;</tspan>  <tspan dx="6">Kubernetes  &#8226;  Helm  &#8226;  Istio</tspan></text>
+      <text x="86"  y="260"><tspan font-weight="600">&#9656;</tspan>  <tspan dx="6">Terraform  &#8226;  Ansible</tspan></text>
+      <text x="86"  y="286"><tspan font-weight="600">&#9656;</tspan>  <tspan dx="6">GitOps  &#8226;  SRE  &#8226;  Observability</tspan></text>
+      <text x="86"  y="312"><tspan font-weight="600">&#9656;</tspan>  <tspan dx="6">Landing zones  &#8226;  Shared VPC</tspan></text>
+      <text x="86"  y="338"><tspan font-weight="600">&#9656;</tspan>  <tspan dx="6">Linux  &#8226;  IaC patterns</tspan></text>
+    </g>
+  </g>
+
+  <!-- ========== CARD 2: AI / GENAI ========== -->
+  <g filter="url(#card)">
+    <rect x="430" y="105" width="340" height="270" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+    <rect x="430" y="105" width="340" height="4" rx="2" fill="#9333ea"/>
+  </g>
+
+  <!-- AI sparkle icon -->
+  <g transform="translate(456, 124)" fill="#9333ea">
+    <!-- Main 4-pointed star -->
+    <path d="M 20 0 L 24 16 L 40 20 L 24 24 L 20 40 L 16 24 L 0 20 L 16 16 Z" opacity="0.85"/>
+    <!-- Small star top right -->
+    <path transform="translate(34, 4) scale(0.5)" d="M 6 0 L 8 6 L 14 8 L 8 10 L 6 16 L 4 10 L -2 8 L 4 6 Z" opacity="0.6"/>
+  </g>
+
+  <g font-family="-apple-system, sans-serif">
+    <text x="508" y="148" font-size="15" font-weight="700" fill="#0f172a">AI  &amp;  GenAI</text>
+    <text x="508" y="166" font-size="10" font-weight="600" fill="#9333ea" letter-spacing="1.2">AGENTS  &#8226;  PIPELINES  &#8226;  PRODUCT</text>
+
+    <line x1="456" y1="182" x2="744" y2="182" stroke="#e2e8f0" stroke-width="1"/>
+
+    <g fill="#334155" font-size="13">
+      <text x="456" y="208"><tspan font-weight="600">&#9656;</tspan>  <tspan dx="6">GPT-4  &#8226;  Gemini  &#8226;  Claude</tspan></text>
+      <text x="456" y="234"><tspan font-weight="600">&#9656;</tspan>  <tspan dx="6">LangChain  &#8226;  LangGraph</tspan></text>
+      <text x="456" y="260"><tspan font-weight="600">&#9656;</tspan>  <tspan dx="6">Agentic systems  &#8226;  tool design</tspan></text>
+      <text x="456" y="286"><tspan font-weight="600">&#9656;</tspan>  <tspan dx="6">RAG  &amp;  retrieval pipelines</tspan></text>
+      <text x="456" y="312"><tspan font-weight="600">&#9656;</tspan>  <tspan dx="6">Prompt engineering at scale</tspan></text>
+      <text x="456" y="338"><tspan font-weight="600">&#9656;</tspan>  <tspan dx="6">AI-led code &amp;  IaC generation</tspan></text>
+    </g>
+  </g>
+
+  <!-- ========== CARD 3: ARCHITECTURE & LEADERSHIP ========== -->
+  <g filter="url(#card)">
+    <rect x="800" y="105" width="340" height="270" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+    <rect x="800" y="105" width="340" height="4" rx="2" fill="#16a34a"/>
+  </g>
+
+  <!-- Stacked blocks icon -->
+  <g transform="translate(826, 128)" fill="#16a34a" opacity="0.85">
+    <rect x="0"  y="14" width="14" height="14" rx="2"/>
+    <rect x="16" y="14" width="14" height="14" rx="2" opacity="0.65"/>
+    <rect x="8"  y="0"  width="14" height="14" rx="2"/>
+  </g>
+
+  <g font-family="-apple-system, sans-serif">
+    <text x="878" y="148" font-size="15" font-weight="700" fill="#0f172a">Architecture &amp; Leadership</text>
+    <text x="878" y="166" font-size="10" font-weight="600" fill="#16a34a" letter-spacing="1.2">VISION  &#8226;  TEAMS  &#8226;  DELIVERY</text>
+
+    <line x1="826" y1="182" x2="1114" y2="182" stroke="#e2e8f0" stroke-width="1"/>
+
+    <g fill="#334155" font-size="13">
+      <text x="826" y="208"><tspan font-weight="600">&#9656;</tspan>  <tspan dx="6">Cloud-native  &#8226;  12-factor</tspan></text>
+      <text x="826" y="234"><tspan font-weight="600">&#9656;</tspan>  <tspan dx="6">Event-driven  &#8226;  microservices</tspan></text>
+      <text x="826" y="260"><tspan font-weight="600">&#9656;</tspan>  <tspan dx="6">Application modernization</tspan></text>
+      <text x="826" y="286"><tspan font-weight="600">&#9656;</tspan>  <tspan dx="6">Pre-sales  &#8226;  C-suite advisory</tspan></text>
+      <text x="826" y="312"><tspan font-weight="600">&#9656;</tspan>  <tspan dx="6">Team building (20+ engineers)</tspan></text>
+      <text x="826" y="338"><tspan font-weight="600">&#9656;</tspan>  <tspan dx="6">Distributed delivery  &#8226;  3 continents</tspan></text>
+    </g>
+  </g>
+
+  <!-- Bottom accent stripe -->
+  <rect x="0" y="396" width="1200" height="4" fill="url(#topStripe)"/>
+</svg>
