@@ -5,7 +5,7 @@
 ### **Principal Cloud Architect** · 18+ years · ☁️ GCP · 🤖 GenAI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipak-kumar-singh-36a6a3a)
-[![Open to Opportunities](https://img.shields.io/badge/Open%20to-Senior%20Roles-success?style=for-the-badge&logo=briefcase&logoColor=white)](#)
+[![Open to Opportunities](https://img.shields.io/badge/Open%20to-Senior%20Roles-success?style=for-the-badge&logo=briefcase&logoColor=white)](https://www.linkedin.com/in/dipak-kumar-singh-36a6a3a)
 
 </div>
 
@@ -24,9 +24,9 @@ Cloud Architect & Technology Leader driving **enterprise digital transformation,
 ## 💼 Currently
 
 > **Principal Cloud Architect** · *Konecta* · client *LSEG (London Stock Exchange Group)*
-> **Application Modernization expert** helping investment-banking workloads
-> move from monolith to cloud-native — leveraging **AI** for discovery,
-> dependency mapping, refactoring, and Kubernetes-ready deployment patterns.
+> Modernizing investment-banking workloads from monolith to cloud-native —
+> leveraging **AI** for discovery, dependency mapping, refactoring,
+> and Kubernetes-ready deployment patterns.
 
 ---
 
@@ -55,10 +55,6 @@ Cloud Architect & Technology Leader driving **enterprise digital transformation,
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### ⚙️ DevOps & Practices
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -100,9 +96,9 @@ Cloud Architect & Technology Leader driving **enterprise digital transformation,
 ## 🗺️ Career Journey
 
 **18+ years** spanning the full evolution of enterprise IT — from early-2010s
-Java/Struts monoliths, through the cloud-migration wave of the late 2010s, to
-today's **AI-led application modernization**. Worked across **automotive,
-banking, media, and healthcare** in **3 continents** — USA, France, and India.
+Java monoliths, through the cloud-migration wave of the late 2010s, to today's
+**AI-led application modernization**. Worked across **automotive, manufacturing,
+banking, and healthcare** on **3 continents** — USA, France, and India.
 
 <table>
 <tr><th>Period</th><th>Role</th><th>Employer</th><th>Client</th><th>Highlights</th></tr>
